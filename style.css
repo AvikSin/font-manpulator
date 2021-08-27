@@ -1,0 +1,59 @@
+.heading
+{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px skyblue;
+}
+.heading_div
+{
+    float: none;
+    background-color: coral;
+    padding: 10px;
+    border-radius: 20px;
+    color: skyblue;
+    box-shadow: 5px 5px 5px gray;
+}
+.heading_div2
+{
+    font-size: 20px;
+}
+.result_para_tag
+{
+    box-shadow: 5px 5px 5px skyblue;
+    font-size: 25px;
+}
+.footer
+{
+    position: fixed;
+    background-color: coral;
+    color: white;
+    bottom: 0px;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+}
+#main_para
+{
+    float: center;
+    color: skyblue;
+    font-size: 30px;
+    padding-top: 300px;
+}
+#fontsize
+{
+    font-size: 25px;
+}
+#text1
+{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+canvas
+{
+    border: 5px dashed black;
+}
+video
+{
+    border: 5px dashed black;
+}
